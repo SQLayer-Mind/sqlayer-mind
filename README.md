@@ -35,6 +35,14 @@ Design logical links and physical foreign keys on a high-performance canvas with
   <img src="./assets/er_surface.jpg" alt="SQLayer_Mind ER Surface" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
+## 🤖 AI-Driven Blueprint Generation
+Turn your business requirements into database architecture in seconds.
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/23785860-c3fe-4172-9e7c-a3660c3da0a1" width="600" controls autoplay loop muted playsinline style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  </video>
+</p>
+
 ---
 
 ## 📖 What is SQLayer-Mind?
