@@ -1,24 +1,58 @@
-# SQLayer_Mind
-Official releases and community tracker for SQLayer-Mind. An AI-native SQL workspace and immersive ER diagram designer featuring Text-to-ER generation, local-first privacy (BYOK), and flexible relationship routing.
+<div align="center">
+  <img src="./assets/logo.png" alt="SQLayer_Mind Logo" width="120" />
 
-**The Ultimate AI-Native SQL Workspace & Immersive ER Diagram Designer.**
+  # SQLayer_Mind
+  
+  **The Ultimate AI-Native SQL Workspace & Immersive ER Diagram Designer.**
+
+  [![Version](https://img.shields.io/badge/version-v0.1.0-blue.svg)](https://github.com/SQLayer-Mind/sqlayer-mind/releases)
+  [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey.svg)](#)
+  [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](LICENSE)
+  [![Model](https://img.shields.io/badge/AI-BYOK-orange.svg)](#)
+
+  <p align="center">
+    <a href="你的官网链接">Official Website</a> •
+    <a href="你的文档链接">Documentation</a> •
+    <a href="#key-capabilities">Key Capabilities</a>
+  </p>
+</div>
+
+---
+
+## 🖥️ Immersive Workspace
+
+Built with **Tauri & Rust**, SQLayer_Mind delivers a blazing-fast, native experience for both database development and architectural design.
+
+### ⚡ Professional SQL Client
+Streamlined data extraction and processing with modern "Geek Blue" aesthetics.
+<p align="center">
+  <img src="./assets/sql_workspace.jpg" alt="SQLayer_Mind SQL Workspace" width="90%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</p>
+
+### 🎨 Advanced ER Modeling
+Design logical links and physical foreign keys on a high-performance canvas with Relation Scripting and Group management.
+<p align="center">
+  <img src="./assets/er_surface.jpg" alt="SQLayer_Mind ER Surface" width="90%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</p>
+
+---
+
+## 📖 What is SQLayer-Mind?
+
+**SQLayer-Mind is a proprietary software.** This repository serves as the official hub for releases, community discussions, and issue tracking.
+
+It bridges the gap between raw SQL development and architectural design, allowing developers to go from natural language to complex database blueprints in seconds.
+
+### 🚀 Key Capabilities
+* **Text-to-ER**: Generate complex database schemas via conversational AI.
+* **Hybrid Modeling**: Support for both **Logical Links** and **Physical Foreign Keys**.
+* **BYOK (Bring Your Own Key)**: Total privacy and zero markup on AI costs.
+* **Native Performance**: Blazing fast startup and low memory footprint (<= 14MB).
 
 ---
 
 🚀 **Coming Soon!**
 
-We are currently preparing the initial public release and comprehensive documentation. 
-
-SQLayer_Mind is an AI-driven, high-performance database tool built for architects and developers. 
-
-**Stay tuned for:**
-- 📥 Official v0.1.0 Release (macOS & Windows)
-- 📖 Deep-dive Documentation
-- 🎬 Feature Demos (Text-to-ER, BYOK, etc.)
-
-
-
-
-#### SQLayer-Mind is a proprietary software. The license of this repository only applies to the documentation and public assets contained herein.
+We are currently preparing the initial public release and comprehensive documentation.
 
 *Estimated Launch: May 2026*
