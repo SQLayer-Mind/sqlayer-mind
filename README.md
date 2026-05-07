@@ -26,13 +26,13 @@ Built with **Tauri & Rust**, SQLayer_Mind delivers a blazing-fast, native experi
 ### ⚡ Professional SQL Client
 Streamlined data extraction and processing with modern "Geek Blue" aesthetics.
 <p align="center">
-  <img src="./assets/sql_workspace.jpg" alt="SQLayer_Mind SQL Workspace" width="90%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="./assets/sql_workspace.jpg" alt="SQLayer_Mind SQL Workspace" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ### 🎨 Advanced ER Modeling
 Design logical links and physical foreign keys on a high-performance canvas with Relation Scripting and Group management.
 <p align="center">
-  <img src="./assets/er_surface.jpg" alt="SQLayer_Mind ER Surface" width="90%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="./assets/er_surface.jpg" alt="SQLayer_Mind ER Surface" width="800" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
 ---
