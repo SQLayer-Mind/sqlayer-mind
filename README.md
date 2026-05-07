@@ -38,10 +38,16 @@ Design logical links and physical foreign keys on a high-performance canvas with
 ## 🤖 AI-Driven Blueprint Generation
 Turn your business requirements into database architecture in seconds.
 
-<div align="center" style="width: 800px">
-    <video src="https://github.com/user-attachments/assets/23785860-c3fe-4172-9e7c-a3660c3da0a1" controls autoplay loop muted playsinline style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); width: 100%;">
-    </video>
-</div>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td style="border:none;">
+        <video src="https://github.com/user-attachments/assets/23785860-c3fe-4172-9e7c-a3660c3da0a1" width="600" controls autoplay loop muted playsinline style="border-radius: 8px;">
+        </video>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
