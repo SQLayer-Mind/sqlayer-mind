@@ -43,17 +43,6 @@ Turn your business requirements into database architecture in seconds.
     </video>
 </div>
 
-<p align="center">
-  <table align="center" width="600">
-    <tr>
-      <td style="border:none;">
-        <video src="https://github.com/user-attachments/assets/23785860-c3fe-4172-9e7c-a3660c3da0a1" controls autoplay loop muted playsinline style="border-radius: 8px; display: block; width: 100%;">
-        </video>
-      </td>
-    </tr>
-  </table>
-</p>
-
 ---
 
 ## 📖 What is SQLayer-Mind?
